@@ -8,6 +8,7 @@ This is the opportunity form me to say Many Thanks fro realizing and sharing his
 This is the link to his project
 https://github.com/Qrome/marquee-scroller
 
+Refer to this web site for more info.
 I have made some modification to try to improve it 
 
 - Added MQTT control to do integreate it with Home Assistant (for example )
@@ -30,9 +31,9 @@ To change MQTT parameter edit the Setting.h file
 # Compiling and Loading to Wemos D1
 It is recommended to use Arduino IDE. You will need to configure Arduino IDE to work with the Wemos board and USB port and installed the required USB drivers etc.
 
-USB CH340G drivers: https://sparks.gogo.co.nz/ch340.html
-Enter http://arduino.esp8266.com/stable/package_esp8266com_index.json into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas. This will add support for the Wemos D1 Mini to Arduino IDE.
-Open Boards Manager from Tools > Board menu and install esp8266 Core platform version 2.7.4 DO NOT INSTALL 3.XX release or you will have compiling error !! 
-Select Board: "LOLIN(WEMOS) D1 R2 & mini"
-Set Flash Size to 4M (FS: 2MB OTA: 1019KB)
-Select the Port from the tools menu.
+- USB CH340G drivers: https://sparks.gogo.co.nz/ch340.html
+- Enter http://arduino.esp8266.com/stable/package_esp8266com_index.json into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas. This will add support for the Wemos D1 Mini to Arduino IDE.
+- Open Boards Manager from Tools > Board menu and install esp8266 Core platform version 2.7.4 DO NOT INSTALL 3.XX release or you will have compiling error !! 
+- Select Board: "LOLIN(WEMOS) D1 R2 & mini"
+- Set Flash Size to 4M (FS: 2MB OTA: 1019KB)
+- Select the Port from the tools menu.
