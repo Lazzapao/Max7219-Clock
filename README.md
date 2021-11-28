@@ -20,9 +20,9 @@ I have made some modification to try to improve it
 
 To change MQTT parameter edit the Setting.h file
 
-boolean ENABLE_MQTT = true;                   // this will allow you to comunicate to MQTT broker
-const char* mqttServer = "KKK.YYY.ZZZ.XXX";   // Your MQTT server IP address
-const char* mqttUser = "";                    // mqtt username, set to "" for no user
-const char* mqttPassword = "";                // mqtt password, set to "" for no password
-const char* mqtttopic = "ClockMatrix";        // mqtt topic
+- boolean ENABLE_MQTT = true;                   // this will allow you to comunicate to MQTT broker
+- const char* mqttServer = "KKK.YYY.ZZZ.XXX";   // Your MQTT server IP address 
+- const char* mqttUser = "";                    // mqtt username, set to "" for no user
+- const char* mqttPassword = "";                // mqtt password, set to "" for no password
+- const char* mqtttopic = "ClockMatrix";        // mqtt topic
 
