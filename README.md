@@ -3,9 +3,9 @@
 Desk Clock using MAX 7219 Led Based on Marqee Code  
 
 This SW is baased on the Marquee project.
-This is the opportunity form me to say Many Thanks fro realizing and sharing his project !!
+This is the opportunity for me to say Many Thanks for realizing and sharing his project !!
 
-This is the link to his project
+This is the link to his project:
 https://github.com/Qrome/marquee-scroller
 
 Refer to this web site for more info.
@@ -37,3 +37,11 @@ It is recommended to use Arduino IDE. You will need to configure Arduino IDE to 
 - Select Board: "LOLIN(WEMOS) D1 R2 & mini"
 - Set Flash Size to 4M (FS: 2MB OTA: 1019KB)
 - Select the Port from the tools menu.
+
+
+# 3D Printing files
+New Stl file will be added soon with some nice upgrade to the original ones.
+
+![20211202_223655](https://user-images.githubusercontent.com/47435194/144507927-ab48e7e7-9345-4ebb-8f82-c96e7999d296.jpg)
+
+This give the possibility to use any kind of PLA colours for printing the case and not only the light ones
