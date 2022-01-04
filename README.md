@@ -40,8 +40,12 @@ It is recommended to use Arduino IDE. You will need to configure Arduino IDE to 
 
 
 # 3D Printing files
-New Stl file will be added soon with some nice upgrade to the original ones.
+Some Stl file are available in the stl-files folder.
 
 ![20211202_223655](https://user-images.githubusercontent.com/47435194/144507927-ab48e7e7-9345-4ebb-8f82-c96e7999d296.jpg)
 
 This give the possibility to use any kind of PLA colours for printing the case and not only the light ones
+Back plate is availaible in two release :
+
+- Standard for D1 mini place only 
+- Upgraded to a battery power Clock having USB-C port to recharge the battery
